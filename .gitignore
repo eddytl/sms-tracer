@@ -1,0 +1,6 @@
+/vendor
+.env
+/storage/logs/*
+!/storage/logs/sms
+/storage/logs/sms/*
+.phpunit.result.cache
